@@ -46,6 +46,10 @@ The system uses photovoltaic technology, a solar charging controller and a DC-DC
 - Battery percentage monitoring
 
 
+📁 Project Documentation
+
+Refer to the "Project_Report" folder for detailed project documentation, circuit connections, component specifications and testing procedures.
+
 👨‍💻 Author
 
 Amaan Ali
